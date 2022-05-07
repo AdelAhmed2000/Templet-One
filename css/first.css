@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
   margin: 0px;
-  padding: 0px;
+  padding: 0p;
 }
 
 body {
@@ -159,7 +159,7 @@ input {
   word-spacing: 5px;
 }
 
-.iimg > img {
+.background2 img {
   width: 95px;
   height: 88px;
   margin: 16px;
